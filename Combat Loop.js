@@ -1,24 +1,24 @@
 //Defining the Forces
-let IDFInfantryJordanBorder = 700000;
+let IDFInfantryJordanBorder = 500000;
 let JAFInfantryIsraelBorder = 500000;
 
-let IDFTanksJordanBorder = 000;
+let IDFTanksJordanBorder = 2000;
 let JAFTanksIsraelBorder = 2000;
 
-let IDFHelisJordanBorder = 000;
-let JAFHelisIsraelBorder = 000;
+let IDFHelisJordanBorder = 500;
+let JAFHelisIsraelBorder = 500;
 
-let IDFATGMJordanBorder = 5000;
-let JAFATGMIsraelBorder = 000;
+let IDFATGMJordanBorder = 2000;
+let JAFATGMIsraelBorder = 2000;
 
-let IDFStingerJordanBorder = 000;
-let JAFStingerIsraelBorder = 000;
+let IDFStingerJordanBorder = 2000;
+let JAFStingerIsraelBorder = 2000;
 
 let IDFJetJordanBorder = 500;
-let JAFJetIsraelBorder = 00;
+let JAFJetIsraelBorder = 500;
 
-let IDFSAMJordanBorder = 000;
-let JAFSAMIsraelBorder = 000;
+let IDFSAMJordanBorder = 300;
+let JAFSAMIsraelBorder = 300;
 
 //Defining the Arrays for the various unit types 
 let IDFJordan = [IDFInfantryJordanBorder,IDFTanksJordanBorder,IDFHelisJordanBorder,IDFATGMJordanBorder,IDFStingerJordanBorder,IDFJetJordanBorder,IDFSAMJordanBorder];
